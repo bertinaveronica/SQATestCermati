@@ -1,0 +1,2 @@
+# SQATestCermati
+SQA_JoinCermati_Katalon
